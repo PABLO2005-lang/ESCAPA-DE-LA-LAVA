@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Fondo
+  - lava
+  - enSuelo
+  - Suelo
+  - Moneda
+  - Moneda 1
+  - Moneda 2
+  - Moneda 3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 754489597
+    locked: 0
+  - name: Suelo
+    uniqueID: 2086699219
+    locked: 0
+  - name: Plataformas
+    uniqueID: 2509869679
+    locked: 0
+  - name: Paredes
+    uniqueID: 3111670045
+    locked: 0
+  - name: Stickman
+    uniqueID: 2768047991
+    locked: 0
+  - name: moneda
+    uniqueID: 182605957
+    locked: 0
+  - name: lava
+    uniqueID: 3328062441
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
